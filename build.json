@@ -1,0 +1,26 @@
+{
+	"outputDir": "dist",
+	"swc": true,
+	"proxy": {
+		"/api/**": {
+			"enable": true,
+			"target": "api.skitsanos.com"
+		}
+	},
+	"plugins": [
+		[
+			"build-plugin-ignore-style",
+			{
+				"libraryName": "antd"
+			}
+		],
+		[
+			"build-plugin-antd",
+			{
+				"themeConfig": {
+					"primary-color": "#330F65"
+				}
+			}
+		]
+	]
+}
