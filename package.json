@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
-    "@ant-design/pro-layout": "^6.36.1",
+    "@ant-design/pro-layout": "^7.1.1",
     "antd": "^4.20.0",
     "ice.js": "^2.6.3",
     "react": "^17.0.2",
