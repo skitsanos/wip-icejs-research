@@ -10,7 +10,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@ant-design/pro-layout": "^7.1.1",
-    "antd": "^4.20.0",
+    "antd": "^5.0.0",
     "ice.js": "^2.6.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
