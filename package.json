@@ -8,7 +8,7 @@
     "build": "icejs build"
   },
   "dependencies": {
-    "@ant-design/icons": "^4.7.0",
+    "@ant-design/icons": "^5.0.0",
     "@ant-design/pro-layout": "^7.1.1",
     "antd": "^5.0.0",
     "ice.js": "^2.6.3",
