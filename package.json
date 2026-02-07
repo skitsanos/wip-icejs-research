@@ -19,6 +19,6 @@
     "build-plugin-antd": "^0.1.4",
     "build-plugin-ignore-style": "^0.1.1",
     "build-plugin-jsx-plus": "^0.1.4",
-    "eslint": "^9.0.0"
+    "eslint": "^10.0.0"
   }
 }
